@@ -13,7 +13,6 @@ kube1 = Actor("kube1")
 kube2 = Actor("kube2")
 snake = Actor("zmeyka_golova3", (75, 75))
 apple = Actor("apple")
-photo = Actor("photo")
 end = 0
 menu = 1
 count = 0
